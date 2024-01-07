@@ -6,6 +6,8 @@ body{
 .banner{
     background-color: rgb(73, 73, 250);
     padding: 0.8em;
+    display: flex;
+    justify-content: space-between;
 }
 div h1{
     color: white;
@@ -40,7 +42,7 @@ p{
     top: 1.8cm;
 }
 .form{
-    position: absolute;
+    position: absolut;
     left: 20.6cm;
     top: 0.8cm;
 
